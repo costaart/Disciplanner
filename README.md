@@ -3,6 +3,7 @@ Um trabalho em grupo de faculdade do primeiro péríodo da matéria Trabalho Int
 
 
 *Grupo:*
+-
 
 
 
@@ -11,7 +12,7 @@ Um trabalho em grupo de faculdade do primeiro péríodo da matéria Trabalho Int
 
 
 *Tecnologias:*  
--HTML \n
--CSS
--JavaScript
+*-HTML*
+*-CSS*
+*-JavaScript*
 
