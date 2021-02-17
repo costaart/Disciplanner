@@ -1,2 +1,16 @@
 # Disciplanner
-Um trabalho de faculdade no primeiro péríodo da matéria Trabalho Interdisciplinar: Aplicações Web.
+Um trabalho em grupo de faculdade do primeiro péríodo da matéria Trabalho Interdisciplinar: Aplicações Web.
+
+
+
+
+
+
+
+
+
+*Tecnologias:*  
+-HTML
+-CSS
+-JavaScript
+
