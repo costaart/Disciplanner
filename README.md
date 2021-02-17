@@ -2,6 +2,7 @@
 Um trabalho em grupo de faculdade do primeiro péríodo da matéria Trabalho Interdisciplinar: Aplicações Web.
 
 
+*Grupo:*
 
 
 
@@ -10,7 +11,7 @@ Um trabalho em grupo de faculdade do primeiro péríodo da matéria Trabalho Int
 
 
 *Tecnologias:*  
--HTML
+-HTML \n
 -CSS
 -JavaScript
 
